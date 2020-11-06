@@ -10,22 +10,22 @@ PROJECT TITLE: GameDP
 
 
 
-PURPOSE OF PROJECT: Entrega EC1
+#### PURPOSE OF PROJECT: 
+Entrega EC1
 
 
 
-VERSION:2018.11.5
+#### VERSION: 
+2018.11.5
 
 
 
-AUTHORS: Grupo MartinRomero [Rodrigo Martin Mateos y Pablo Romero Muñoz]
+### AUTHORS: Grupo MartinRomero 
+
+Pablo Romero Muñoz and Rodrigo Martin Mateos
 
 
 
-USER INSTRUCTIONS: Para ejecutar la demo del proyecto se deberá crear una instancia de 
-    la clase "StockDemo" y ejecutar el método "simulacion()". Comenzará cargando todos 
-    los datos en sus contendores correspondientes. Tras la carga se sucederán 10 turnos
-    de pedidos entre los clientes almacenados. Los resultados detallados se muestran en
-    un fichero de texto [registro.log] creado dentro de la carpeta ProyectoDP. Cuando 
-    hay finalizado, se mostrará por consola un mensaje a informativo.
+### USER INSTRUCTIONS: 
 
+To execute the project demo you must create an instance of the "StockDemo" class and execute the "simulation()" method. It will start loading all the data in its corresponding containers. After loading, 10 shifts of orders will follow between the stored customers. The detailed results are displayed in a text file [log.log] created within the ProjectDP folder. When it is finished, an information message will be displayed by the console.
