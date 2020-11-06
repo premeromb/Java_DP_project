@@ -1,0 +1,190 @@
+<for each turn>
+(turn:<1>)
+(client:<1 Rafa Nadal 32 Manacor>)
+<for each product included in client order>
+(product:<2 Xbox One 5 2 264.0 150>)
+<for each comment  included in  product>
+(comment:<Rafa Nadal Very good product 4>)
+(client:<1 Rafa Nadal 32 Manacor>)
+<for each product included in client order>
+(product:<1 Nintendo Switch 4 2 360.0 150>)
+<for each comment  included in  product>
+(comment:<Rafa Nadal Bad product 1>)
+<in StockManager for each client who makes an order>
+<for each turn>
+(turn:<2>)
+(client:<2 Carolina Marin 25 Huelva>)
+<for each product included in client order>
+(product:<1 Nintendo Switch 4 2 360.0 21>)
+<for each comment  included in  product>
+(comment:<Carolina Marin I really like this product 4>)
+(comment:<Rafa Nadal Bad product 1>)
+(product:<8 Barbecue 5 1 76.0 garden 1 11>)
+<for each comment  included in  product>
+(comment:<Carolina Marin I really like this product 4>)
+(product:<7 Lamp 5 2 16.15 livingroom 1 11>)
+<for each comment  included in  product>
+(comment:<Carolina Marin I really like this product 4>)
+(product:<20 Milk 100 50 0.54 December 11>)
+(the order is done)
+<in StockManager for each client who makes an order>
+<for each turn>
+(turn:<3>)
+(client:<3 Jose Manuel Calderon 37 Villanueva de la Serena>)
+<for each product included in client order>
+(product:<8 Barbecue 4 1 76.0 garden 2 250>)
+<for each comment  included in  product>
+(comment:<Carolina Marin I really like this product 4>)
+(comment:<Jose Manuel Calderon Very good product 4>)
+(client:<3 Jose Manuel Calderon 37 Villanueva de la Serena>)
+<for each product included in client order>
+(product:<1 Nintendo Switch 3 2 360.0 350>)
+<for each comment  included in  product>
+(comment:<Carolina Marin I really like this product 4>)
+(comment:<Rafa Nadal Bad product 1>)
+(comment:<Jose Manuel Calderon Bad product 1>)
+<in StockManager for each client who makes an order>
+<for each turn>
+(turn:<4>)
+(client:<4 Laia palau 39 Barcelona>)
+<for each product included in client order>
+(product:<1 Nintendo Switch 3 2 360.0 450>)
+<for each comment  included in  product>
+(comment:<Carolina Marin I really like this product 4>)
+(comment:<Rafa Nadal Bad product 1>)
+(comment:<Jose Manuel Calderon Bad product 1>)
+(comment:<Laia palau Bad product 1>)
+<in StockManager for each client who makes an order>
+<for each turn>
+(turn:<5>)
+(client:<5 Javier Guerra 35 Segovia>)
+<for each product included in client order>
+(product:<8 Barbecue 4 1 76.0 garden 3 31>)
+<for each comment  included in  product>
+(comment:<Carolina Marin I really like this product 4>)
+(comment:<Jose Manuel Calderon Very good product 4>)
+(comment:<Javier Guerra I really like this product 4>)
+(the order is done)
+<in StockManager for each client who makes an order>
+<for each turn>
+(turn:<6>)
+(client:<6 Ana Peleteiro 22 Riveira>)
+<for each product included in client order>
+(product:<9 Towel 10 5 8.55 bathroom 1 11>)
+<for each comment  included in  product>
+(comment:<Ana Peleteiro I really like this product 4>)
+(product:<20 Milk 99 50 0.54 December 21>)
+(product:<2 Xbox One 5 2 264.0 21>)
+<for each comment  included in  product>
+(comment:<Rafa Nadal Very good product 4>)
+(comment:<Ana Peleteiro I really like this product 4>)
+(product:<19 Coffee 150 100 0.9 November 11>)
+(product:<8 Barbecue 3 1 76.0 garden 4 41>)
+<for each comment  included in  product>
+(comment:<Carolina Marin I really like this product 4>)
+(comment:<Jose Manuel Calderon Very good product 4>)
+(comment:<Javier Guerra I really like this product 4>)
+(comment:<Ana Peleteiro I really like this product 4>)
+(product:<18 Bread 50 25 1.08 December 11>)
+(the order is done)
+<in StockManager for each client who makes an order>
+<for each turn>
+(turn:<7>)
+(client:<1 Rafa Nadal 32 Manacor>)
+<for each product included in client order>
+(product:<2 Xbox One 4 2 264.0 250>)
+<for each comment  included in  product>
+(comment:<Rafa Nadal Very good product 4>)
+(comment:<Ana Peleteiro I really like this product 4>)
+(client:<1 Rafa Nadal 32 Manacor>)
+<for each product included in client order>
+(product:<1 Nintendo Switch 3 2 360.0 450>)
+<for each comment  included in  product>
+(comment:<Carolina Marin I really like this product 4>)
+(comment:<Rafa Nadal Bad product 1>)
+(comment:<Jose Manuel Calderon Bad product 1>)
+(comment:<Laia palau Bad product 1>)
+<in StockManager for each client who makes an order>
+<for each turn>
+(turn:<8>)
+(client:<2 Carolina Marin 25 Huelva>)
+<for each product included in client order>
+(product:<1 Nintendo Switch 3 2 360.0 41>)
+<for each comment  included in  product>
+(comment:<Carolina Marin I really like this product 4>)
+(comment:<Rafa Nadal Bad product 1>)
+(comment:<Jose Manuel Calderon Bad product 1>)
+(comment:<Laia palau Bad product 1>)
+(product:<8 Barbecue 2 1 76.0 garden 5 41>)
+<for each comment  included in  product>
+(comment:<Carolina Marin I really like this product 4>)
+(comment:<Jose Manuel Calderon Very good product 4>)
+(comment:<Javier Guerra I really like this product 4>)
+(comment:<Ana Peleteiro I really like this product 4>)
+(product:<7 Lamp 4 2 16.15 livingroom 2 11>)
+<for each comment  included in  product>
+(comment:<Carolina Marin I really like this product 4>)
+(product:<20 Milk 98 50 0.54 December 31>)
+(the order is done)
+<in StockManager for each client who makes an order>
+<for each turn>
+(turn:<9>)
+(client:<3 Jose Manuel Calderon 37 Villanueva de la Serena>)
+<for each product included in client order>
+(product:<8 Barbecue 1 1 76.0 garden 6 450>)
+<for each comment  included in  product>
+(comment:<Carolina Marin I really like this product 4>)
+(comment:<Jose Manuel Calderon Very good product 4>)
+(comment:<Javier Guerra I really like this product 4>)
+(comment:<Ana Peleteiro I really like this product 4>)
+(client:<3 Jose Manuel Calderon 37 Villanueva de la Serena>)
+<for each product included in client order>
+(product:<1 Nintendo Switch 2 2 360.0 450>)
+<for each comment  included in  product>
+(comment:<Carolina Marin I really like this product 4>)
+(comment:<Rafa Nadal Bad product 1>)
+(comment:<Jose Manuel Calderon Bad product 1>)
+(comment:<Laia palau Bad product 1>)
+<in StockManager for each client who makes an order>
+<for each turn>
+(turn:<10>)
+(client:<4 Laia palau 39 Barcelona>)
+<for each product included in client order>
+(product:<1 Nintendo Switch 2 2 360.0 450>)
+<for each comment  included in  product>
+(comment:<Carolina Marin I really like this product 4>)
+(comment:<Rafa Nadal Bad product 1>)
+(comment:<Jose Manuel Calderon Bad product 1>)
+(comment:<Laia palau Bad product 1>)
+<in StockManager for each client who makes an order>
+<at the end of simulation>
+<for each product sold>
+(soldProduct:<1 Nintendo Switch 2 2 360.0 4=2>)
+(soldProduct:<18 Bread 49 25 1.08 December 1=1>)
+(soldProduct:<9 Towel 9 5 8.55 bathroom 1 1=1>)
+(soldProduct:<2 Xbox One 4 2 264.0 2=1>)
+(soldProduct:<19 Coffee 149 100 0.9 November 1=1>)
+(soldProduct:<8 Barbecue 1 1 76.0 garden 6 4=4>)
+(soldProduct:<7 Lamp 3 2 16.15 livingroom 2 1=2>)
+(soldProduct:<20 Milk 97 50 0.54 December 3=3>)
+<for each product sold>
+(soldProduct:<1 Nintendo Switch 2 2 360.0 4=2>)
+(soldProduct:<18 Bread 49 25 1.08 December 1=1>)
+(soldProduct:<9 Towel 9 5 8.55 bathroom 1 1=1>)
+(soldProduct:<2 Xbox One 4 2 264.0 2=1>)
+(soldProduct:<19 Coffee 149 100 0.9 November 1=1>)
+(soldProduct:<8 Barbecue 1 1 76.0 garden 6 4=4>)
+(soldProduct:<7 Lamp 3 2 16.15 livingroom 2 1=2>)
+(soldProduct:<20 Milk 97 50 0.54 December 3=3>)
+(mostSoldProduct:<8 Barbecue 1 1 76.0 garden 6 4 4>)
+<for each product sold>
+(soldProduct:<1 Nintendo Switch 2 2 360.0 4=2>)
+(soldProduct:<18 Bread 49 25 1.08 December 1=1>)
+(soldProduct:<9 Towel 9 5 8.55 bathroom 1 1=1>)
+(soldProduct:<2 Xbox One 4 2 264.0 2=1>)
+(soldProduct:<19 Coffee 149 100 0.9 November 1=1>)
+(soldProduct:<8 Barbecue 1 1 76.0 garden 6 4=4>)
+(soldProduct:<7 Lamp 3 2 16.15 livingroom 2 1=2>)
+(soldProduct:<20 Milk 97 50 0.54 December 3=3>)
+(mostCommentedProduct:<1 Nintendo Switch 2 2 360.0 4>)
+(clientWhoSpentMore:<1 Rafa Nadal 32 Manacor62400.0>)
